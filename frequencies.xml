@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>The PIP</Name>
+    <GroupName>Nadajniki Radzieckie</GroupName>
+    <Frequency>3756000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>4 180,941 kHz USB</Name>
+    <GroupName>Nadajniki numeryczne</GroupName>
+    <Frequency>4180941</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3580</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>4 404,8 kHz USB</Name>
+    <GroupName>Nadajniki numeryczne</GroupName>
+    <Frequency>4404800</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>UVB-76 "Buzzer"</Name>
+    <GroupName>Nadajniki Radzieckie</GroupName>
+    <Frequency>4625000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>3500</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>JVB1/The Pip</Name>
+    <GroupName>Nadajniki Radzieckie</GroupName>
+    <Frequency>5448000</Frequency>
+    <DetectorType>USB</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>2800</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>27 180 kHz C19</Name>
+    <GroupName>CB</GroupName>
+    <Frequency>27180000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>5000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>121,125 MHz AM Służba radarowa przekierowanie</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>121125000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9120</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>125,348 MHz Międzynarodowe</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>125347988</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9120</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>125,348 MHz Międzynarodowe</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>125347988</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9120</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>126,300 MHz Poznań Północ</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>126300000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9120</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>127,2554 MHz Służba radarowa</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>127255367</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>9120</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>134,2225 MHz AM</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>134222520</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6630</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>134,4727 MHz AM</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>134472700</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6630</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>134,8725 MHz AM</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>134872900</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>10000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>134,873 MHz AM</Name>
+    <GroupName>Lotnictwo</GroupName>
+    <Frequency>134873000</Frequency>
+    <DetectorType>AM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>6630</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>147,9704 MHz NFM</Name>
+    <GroupName>Służby</GroupName>
+    <Frequency>147970362</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>148,8203 MHz NFM</Name>
+    <GroupName>Służby</GroupName>
+    <Frequency>148820283</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>20000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>150,1983 MHz NFM</Name>
+    <GroupName>Służby</GroupName>
+    <Frequency>150198305</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>false</IsFavourite>
+    <Name>150,3684 MHz WFM</Name>
+    <GroupName>Służby</GroupName>
+    <Frequency>150368435</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>25000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>150,3699 MHz Kluczbork</Name>
+    <GroupName>PKP</GroupName>
+    <Frequency>150369924</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>150,3718 Kluczbork</Name>
+    <GroupName>PKP</GroupName>
+    <Frequency>150371765</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>151,1477 Kluczbork</Name>
+    <GroupName>PKP</GroupName>
+    <Frequency>151147684</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>32000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>158,3731 COŚ</Name>
+    <GroupName>Służby</GroupName>
+    <Frequency>158373083</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>15000</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>169,2902 MHz WFM</Name>
+    <GroupName>DSD</GroupName>
+    <Frequency>169290157</Frequency>
+    <DetectorType>WFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>15590</FilterBandwidth>
+  </MemoryEntry>
+  <MemoryEntry>
+    <IsFavourite>true</IsFavourite>
+    <Name>173,150 MHz Policja Kluczbork</Name>
+    <GroupName>Misc</GroupName>
+    <Frequency>173150000</Frequency>
+    <DetectorType>NFM</DetectorType>
+    <Shift>0</Shift>
+    <FilterBandwidth>86690</FilterBandwidth>
+  </MemoryEntry>
+</ArrayOfMemoryEntry>
