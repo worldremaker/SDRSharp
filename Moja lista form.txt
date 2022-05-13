@@ -1,0 +1,271 @@
+setfreqm(b,1404,'am');"> France Info &amp; ERT Komotini Greece
+setfreqm(b,1413,'am');"> Premier Radio London
+setfreqm(b,1422,'am');"> Deutschlandfunk
+setfreqm(b,1431,'am');"> Smooth Radio Reading UK
+setfreqm(b,1440,'am');"> RTL/ China Radio International
+setfreqm(b,1449,'am');"> Asian Network
+setfreqm(b,1458,'am');"> LycaRadio
+setfreqm(b,1467,'am');"> TWR EU
+setfreqm(b,1485,'am');"> euRegioRadio
+setfreqm(b,1494,'am');"> France Info
+setfreqm(b,1503,'am');"> Betar Bangla London
+setfreqm(b,1530,'am');"> BBC Radio Essex
+setfreqm(b,1548,'am');"> Gold UK
+setfreqm(b,1557,'am');"> Smooth UK
+setfreqm(b,1566,'am');"> Vahon Hindustani
+setfreqm(b,1575,'am');"> RAI1
+setfreqm(b,1584,'amn');"> Panjap UK
+setfreqm(b,1593,'am');"> SRR Radio Romania ?
+setfreqm(b,1602,'amn');"> Waddenzee
+setfreqm(b,1615,'am');"> Dutch Pirate
+setfreqm(b,1618,'amn');"> Curasao<br>Pirate
+setfreqm(b,1620,'amn');"> Zwarte Bouvier<br>Pirate
+setfreqm(b,1630,'am');"> Asteras
+setfreqm(b,1634,'amn');"> Rustende Jager<br>Pirate
+setfreqm(b,1635,'amn');"> Pirate
+setfreqm(b,1636,'am');"> Akenzo
+setfreqm(b,1638,'am');"> Edelkampioen<br>Pirate
+setfreqm(b,1639.839966,'am');"> Pirate
+setfreqm(b,1647,'amn');"> Witte Tornado and Lady<br>Pirate
+setfreqm(b,1655,'am');"> Dutch Pirate station
+setfreqm(b,1802,'lsb');"> JJ1YAF
+setfreqm(b,1805,'lsb');"> JQ1YSR/1
+setfreqm(b,1807.400024,'lsb');"> JG0LGQ
+setfreqm(b,1809,'lsb');"> JN1ILK
+setfreqm(b,1810,'lsb');"> &gt;160m
+setfreqm(b,1810.5,'cwn');"> YR2TOP-beacon100W
+setfreqm(b,1811.699951,'lsb');"> JE1CKA
+setfreqm(b,1835,'lsb');"> TX5N
+setfreqm(b,1836,'lsb');"> TX5N
+setfreqm(b,1836.699951,'lsb');"> TX5N
+setfreqm(b,1850,'lsb');"> Calling
+setfreqm(b,1853,'cwn');"> OK0EV-beacon100mW
+setfreqm(b,1854,'cw');"> Beacon OKM1
+setfreqm(b,1875,'cwn');"> DL3KR-beacon5W
+setfreqm(b,1877,'usb');"> 1877Net<br>Evening
+setfreqm(b,1942,'lsb');"> Gents of 1942
+setfreqm(b,1972,'lsb');"> 1972 Group
+setfreqm(b,1998,'cwn');"> SA6RR-beacon800mW
+setfreqm(b,1999.5,'cwn');"> SM6AAL-beacon500mW
+setfreqm(b,2000,'lsb');"> &lt;160m
+
+setfreqm(b,2065.800049,'usb');"> FRA FUB French Navy, Paris (STANAG 4481 50bd/850Hz)
+setfreqm(b,2130,'usb');"> RUS Railway
+setfreqm(b,2150,'usb');"> RUS More Trains
+setfreqm(b,2169.699951,'usb');"> UNID (STANAG 4285 600bps/L)
+setfreqm(b,2182,'usb');"> Int Rescue
+setfreqm(b,2191.199951,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 600bps/L)
+setfreqm(b,2207.199951,'usb');"> NOR LBA Norwegian Navy, Bodo (STANAG 4285 600bps/L)
+setfreqm(b,2379.600098,'usb');"> HOL PBB Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+setfreqm(b,2415.199951,'usb');"> UNID (STANAG 4285 600bps/L)
+setfreqm(b,2433.199951,'usb');"> GER DHO26 German Navy, Rostock (STANAG 4285 600bps/L)
+setfreqm(b,2473,'usb');"> HOL PBB Dutch Navy, Den Helder (ITA2 75Bd/850Hz/1.5sb)
+setfreqm(b,2532,'usb');"> RUS MIL (night for 6922/6984)
+setfreqm(b,2533.699951,'usb');"> ITA IDR Italian Navy, Rome (STANAG 4285 600bps/L)
+setfreqm(b,2572.5,'usb');"> (ISB) POR CTW Portugese Navy, Lisbon (STANAG 4285 600bps/L)
+setfreqm(b,2579.199951,'usb');"> ITA IDR Italian Navy, Rome (STANAG 4285 600bps/L)
+setfreqm(b,2587.600098,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,2590.600098,'usb');"> HOL PBB Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+setfreqm(b,2601,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,2608.399902,'usb');"> FRA FUO2 French Navy, Toulon (STANAG 4285 600bps/L)
+setfreqm(b,2613.600098,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,2638.600098,'usb');"> DEN OUA4 Danish Navy, Aarhaus (STANAG 4285 1200bps/L)
+setfreqm(b,2658.100098,'usb');"> DEN OUA Danish Navy, Aarhaus (STANAG 4285 1200bps/L)
+setfreqm(b,2680,'cw');"> ISR 4XZ
+setfreqm(b,2756.199951,'usb');"> SPA EBA Spanish Navy, Madrid (STANAG 4285 600bps/L)
+setfreqm(b,2789,'usb');"> FRA FUE French Navy, Brest (STANAG 4285 600bps/L)
+setfreqm(b,2833.199951,'usb');"> UNID (STANAG 4285 300bps/L)
+setfreqm(b,2941,'usb');"> RUS Rostov Volmet
+setfreqm(b,3162,'usb');"> RUS MIL Goose (night, moved up)
+setfreqm(b,3218.5,'usb');"> Katok-65 (night)
+setfreqm(b,3240,'usb');"> RUS MIL Fazan-37 (moved back to 5292)
+setfreqm(b,3243,'usb');"> RUS MIL Goose (night)
+setfreqm(b,3274,'usb');"> RUS MIL Pip (night, messages only)
+setfreqm(b,3368.199951,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,3384.199951,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 600bps/L)
+setfreqm(b,3413,'usb');"> IRL Shannon Volmet
+
+setfreqm(b,3510,'usb');"> RUS MIL Airhorn
+setfreqm(b,3525,'cwn');"> PY2DSB-beacon4W
+setfreqm(b,3549,'cwn');"> ER1AAZ-beacon4W
+setfreqm(b,3555.554932,'cw');"> PA0RYL<br>10mW beacon
+setfreqm(b,3566.5,'cwn');"> SM6AAL-beacon200mW
+setfreqm(b,3567.75,'cw');"> CW QRQ Point
+setfreqm(b,3570,'cwn');"> YO8RIX-beacon20mW
+setfreqm(b,3576.800049,'cwn');"> IZ3DVW-beacon500mW
+setfreqm(b,3577,'cwn');"> FR1GZ-beacon10W
+setfreqm(b,3579,'cwn');"> DK0WCY-beacon30W
+setfreqm(b,3579.800049,'cwn');"> SM2IUF-beaconQRPP
+setfreqm(b,3594.5,'cw');"> OK0EU-beacon1W<br>Jumps 4Hz
+setfreqm(b,3600,'am');"> AM Dutch<br>Elke donderdag 19-21u
+setfreqm(b,3605,'lsb');"> PI4VRZ/A<br>Zat morgen
+setfreqm(b,3609,'lsb');"> België Net<br>Ong.9u
+setfreqm(b,3615,'amn');"> VMARS
+setfreqm(b,3625,'lsb');"> Nederlands<br>Overdag
+setfreqm(b,3630,'lsb');"> Nederlands<br>Ong.17u
+setfreqm(b,3673,'usb');"> Holland<br>Coastguard
+setfreqm(b,3692,'lsb');"> Deutsches Net
+setfreqm(b,3693,'lsb');"> OH1NOA/P
+setfreqm(b,3705,'amn');"> SRS<br>AM ronde
+setfreqm(b,3718,'lsb');"> EA4APP/M
+setfreqm(b,3744,'lsb');"> DL8ECA/P
+setfreqm(b,3750,'lsb');"> DJ5DM<br> DK3DW<br> DK3KR
+setfreqm(b,3756,'usb');"> RUS MIL Pip (night)
+setfreqm(b,3820.199951,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,3828,'usb');"> RUS MIL Squeaky Wheel (night)
+setfreqm(b,3853.100098,'usb');"> GER Hamburg Meteo (Wefax)
+setfreqm(b,3862.199951,'usb');"> NOR JWT Norwegian Navy, Bodo (STANAG 4285 300bps/L)
+setfreqm(b,3920,'am');"> Pirate Radio
+setfreqm(b,3950,'lsb');"> Hurricane Watch
+setfreqm(b,3955,'am');"> Channel292
+setfreqm(b,3985,'am');"> MiAmigo<br>19-20CET
+setfreqm(b,4022,'am');"> alias of 6070am, SDR quirk
+setfreqm(b,4055.199951,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,4163.299805,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 1200bps/L)
+setfreqm(b,4179,'cw');">  RUS REA4 (now 4356)
+setfreqm(b,4182,'usb');"> RUS MIL T channel marker (or at 4593)
+setfreqm(b,4203.200195,'usb');"> HOL PBC Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+setfreqm(b,4224,'usb');"> Katok-65 (day)
+setfreqm(b,4225.700195,'usb');"> ITA IDR Italian Navy, Rome (STANAG 4285 600bps/L)
+setfreqm(b,4254.200195,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,4259.200195,'usb');"> SPA EBA Spanish Navy, Madrid (STANAG 4285 600bps/L)
+setfreqm(b,4263.200195,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,4277.200195,'usb');"> SPA EBA Spanish Navy, Madrid (STANAG 4285 600bps/L)
+setfreqm(b,4279,'usb');"> HOL PBB Dutch Navy, Den Helder (ITA2 75Bd/850Hz/1.5sb)
+setfreqm(b,4288.600098,'usb');"> FRA FUG French Navy, Saissac (STANAG 4285 1200bps/L)
+setfreqm(b,4295,'usb');"> FRA FUE French Navy, Brest (STANAG 4285 600bps/L)
+setfreqm(b,4299.200195,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 600bps/L)
+setfreqm(b,4306,'usb');"> (ISB) POR CTA04 Portugese Navy, Lisbon (STANAG 4285 600bps/L)
+setfreqm(b,4310,'usb');"> RUS MIL Goose (day)
+setfreqm(b,4310.200195,'usb');"> BEL OSN54 Belgian Navy, Zeebrugge (STANAG 4285 600bps/L)
+setfreqm(b,4314.200195,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 600bps/L)
+setfreqm(b,4325,'usb');"> FRA FUE French Navy, Brest (STANAG 4285 600bps/L)
+setfreqm(b,4331,'cw');"> ISR 4XZ
+setfreqm(b,4338,'usb');"> FRA FUB French Navy, Paris (STANAG 4285 600bps/L)
+setfreqm(b,4356,'cw');">  RUS REA4
+setfreqm(b,4422.600098,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,4563.200195,'usb');"> DEN OUA14 Danish Navy, Aarhaus (STANAG 4285 600bps/L)
+setfreqm(b,4576.200195,'usb');"> ITA NATO Allied Joint Force Command, Napoli (STANAG 4285 600bps/L)
+setfreqm(b,4582,'usb');"> GER DDK2 Pinneberg (ITA2 50Bd/450Hz/1.5sb)
+setfreqm(b,4593,'usb');"> RUS MIL T channel marker (or at 4182)
+setfreqm(b,4625,'usb');"> RUS MIL Buzzer
+setfreqm(b,4643,'usb');"> FRA FUG French Navy, Saissac (STANAG 4285 1200bps/L)
+setfreqm(b,4645,'usb');"> EST Tallinn Volmet
+setfreqm(b,4686,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 1200bps/L)
+setfreqm(b,4700,'am');"> Mystery Radio 21
+setfreqm(b,4770,'usb');"> RUS Alarm marker
+setfreqm(b,4996,'cw');">	RUS RWM time signal
+
+setfreqm(b,5155,'usb');"> TUR TBB Turkish Navy, Ankara (STANAG 4285 600bps/L)
+setfreqm(b,5160.200195,'usb');"> HOL PBC Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+setfreqm(b,5215.600098,'usb');"> FRA FUO French Navy, Toulon (STANAG 4285 1200bps/L)
+setfreqm(b,5227.700195,'usb');"> NOR JWU Norwegian Navy, Bodo (STANAG 4285 600bps/L)
+setfreqm(b,5279,'usb');"> RAOTA
+setfreqm(b,5292,'usb');"> RUS MIL Fazan-37
+setfreqm(b,5332,'usb');"> TUR TBB Turkish Navy, Ankara (STANAG 4285 600bps/L)
+setfreqm(b,5363,'usb');"> Dutch
+setfreqm(b,5441.200195,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,5448,'usb');"> RUS MIL Pip (day)
+setfreqm(b,5450,'usb');"> UK RAF Volmet
+setfreqm(b,5473,'usb');"> RUS MIL Squeaky Wheel (day)
+setfreqm(b,5475,'usb');"> Volmet<br>SAM Agentina
+setfreqm(b,5493,'usb');"> Air Traffic<br>Africa 4 route
+setfreqm(b,5499,'usb');"> Volmet<br>AFI Africa
+setfreqm(b,5505,'usb');"> IRL Shannon Volmet
+setfreqm(b,5583,'usb');"> Air Shanwick
+setfreqm(b,5704,'usb');"> SWI Swiss Air Force (2 x FSK 100Bd/170Hz)
+setfreqm(b,5758.600098,'usb');"> FRA FUO French Navy, Toulon (STANAG 4285 1200bps/L)
+setfreqm(b,5870.700195,'usb');"> ITA NATO Allied Joint Force Command, Napoli (STANAG 4285 1200bps/L)
+setfreqm(b,6272.600098,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,6335.200195,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 600bps/L)
+setfreqm(b,6348,'usb');"> FRA FUE French Navy, Brest (STANAG 4285 600bps/L)
+setfreqm(b,6357.5,'usb');"> HOL PBB Dutch Navy, Den Helder (ITA2 75Bd/850Hz/1.5sb)
+setfreqm(b,6367.200195,'usb');"> FRA FUG French Navy, Saissac (STANAG 4481 50Bd/850Hz)
+setfreqm(b,6388.200195,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,6406,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,6408.700195,'usb');"> ITA IDR Italian Navy, Rome (STANAG 4285 600bps/L)
+setfreqm(b,6412.700195,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 1200bps/L)
+setfreqm(b,6429.200195,'usb');"> NOR Navy comms center (c/s JWT)
+setfreqm(b,6498.200195,'usb');"> HOL PBC Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+
+setfreqm(b,6535,'usb');"> Air Traffic<br>Africa 1 route
+setfreqm(b,6547,'usb');"> Air Shanwick
+setfreqm(b,6550,'usb');"> Holland<br>Coastguard
+setfreqm(b,6577,'usb');"> Air Traffic<br>Caribbean A route
+setfreqm(b,6586,'usb');"> Air Traffic<br>Caribbean B route
+setfreqm(b,6598,'usb');"> Europe
+setfreqm(b,6604,'usb');"> Volmet<br>NAT N-Atlantic
+
+setfreqm(b,6607,'cw');"> ISR 4XZ
+setfreqm(b,6617,'usb');"> RUS Rostov Volmet
+setfreqm(b,6622,'usb');"> Air Traffic<br>N-Atlantic F route
+setfreqm(b,6628,'usb');"> Air Traffic<br>N-Atlantic E route
+setfreqm(b,6651,'usb');"> Denmark<br>Coastguard
+setfreqm(b,6661,'usb');"> Air Traffic<br>Mumbai
+setfreqm(b,6665,'usb');"> Air Traffic<br>N-Pacific 2&amp;4 route6676,'usb');"> Volmet<br>SEA 1 S-E Asia
+setfreqm(b,6676,'usb');"> Bangkok Volmet
+setfreqm(b,6679,'usb');"> Volmet<br>PAC Pacific
+setfreqm(b,6685,'usb');"> Air Traffic<br>Russia
+setfreqm(b,6693,'usb');"> Volmet<br>NCA CIS 3
+setfreqm(b,6733,'usb');"> Tascomm UK Mil
+setfreqm(b,6754,'usb');"> Volmet<br>NAM RCAF Trenton
+setfreqm(b,6764.700195,'usb');"> GER DHJ58 German Navy, Gluecksburg (STANAG 4285 600bps/L)
+setfreqm(b,6781.200195,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 1200bps/L)
+setfreqm(b,6786,'usb');"> GBR DHFCS British MIL, Forest Moor (STANAG 4285 1200bps/L)
+setfreqm(b,6811,'usb');"> SWI Swiss Air Force (2 x FSK 100Bd/170Hz)
+setfreqm(b,6884,'usb');"> Volmet<br>AFI Angola
+setfreqm(b,6893.200195,'usb');"> HOL PBC Dutch Navy, Den Helder (STANAG 4285 600bps/L)
+setfreqm(b,6913,'usb');"> RUS MIL Pip (day, voice only)
+setfreqm(b,6922,'usb');"> RUS MIL Pip (day, voice only)
+setfreqm(b,6984,'usb');"> RUS MIL
+setfreqm(b,6985,'am');">  The Vault<br>Music pirate
+setfreqm(b,7003,'cwn');"> ES1VHF-beacon
+setfreqm(b,7024,'lsb');"> DL8ECA/P
+setfreqm(b,7034.799805,'cwn');"> PT9BCN-beacon
+setfreqm(b,7036.5,'cwn');"> SZ6IOA-beacon
+setfreqm(b,7038.5,'cw');"> OK0EU-beacon1W<br>Jumps 4Hz
+setfreqm(b,7039.100098,'cwn');"> SK7CQ-beacon
+setfreqm(b,7039.200195,'cwn');"> IK1HGI-beacon100mW
+setfreqm(b,7039.399902,'cwn');"> OK0EPB-beacon1W
+setfreqm(b,7039.799805,'cwn');"> IZ3DVW-beacon300mW
+setfreqm(b,7047.5,'cwn');"> YD0MWK-beacon5W
+setfreqm(b,7055,'lsb');"> 废话
+setfreqm(b,7056,'usb');"> RUS Pip (day, voice only)
+setfreqm(b,7062,'lsb');"> PI4VRZA
+setfreqm(b,7067,'lsb');"> 40m ronde dutch<br>12.30-13h local time
+setfreqm(b,7073,'lsb');"> Collins618T
+setfreqm(b,7090,'lsb');"> IK6PUO
+setfreqm(b,7092,'lsb');"> II1WRTC
+setfreqm(b,7118,'lsb');"> SOTA activators<br>+/- a few kHz
+setfreqm(b,7125,'lsb');"> IQ1GE
+setfreqm(b,7126,'usb');"> RUS MIL Pip (voice only)
+setfreqm(b,7128,'lsb');"> EH4WRD
+setfreqm(b,7155,'lsb');"> HB9ZZ
+setfreqm(b,7162,'lsb');"> EC2AG
+setfreqm(b,7182,'lsb');"> EA4APP/M
+setfreqm(b,7200,'lsb');"> &lt;40m
+setfreqm(b,7205,'am');"> France
+setfreqm(b,7210,'am');"> China
+setfreqm(b,7215,'am');"> China
+setfreqm(b,7225,'am');"> China<br>VoA
+setfreqm(b,7235,'am');"> Iran<br>Ethiopia
+setfreqm(b,7245,'am');"> Tajik
+setfreqm(b,7255,'am');"> China<br>Nigeria
+setfreqm(b,7280,'am');"> Vietnam
+setfreqm(b,7295,'am');"> China<br>Sakha
+setfreqm(b,7310,'am');"> MiAmigo<br>12-16CET
+setfreqm(b,7340,'am');"> China
+setfreqm(b,7395,'am');"> China
+setfreqm(b,7440,'am');"> Channel292
+setfreqm(b,7554.600098,'usb');"> FRA FUG French Navy, Saissac (STANAG 4285 1200bps/L)
+setfreqm(b,7645,'usb');"> GER DDH7 Pinnerberg (ITA2 50Bd/450Hz/1.5sb)
+setfreqm(b,7878.100098,'usb');"> GER Hamburg Meteo (Wefax)
+setfreqm(b,7937,'usb');"> UNID (STANAG 4285 1200bps/L)
+setfreqm(b,8888,'usb');"> RUS Samara Volmet
+setfreqm(b,8939,'usb');"> RUS Rostov Volmet
+setfreqm(b,8957,'usb');"> IRL Shannon Volmet
+setfreqm(b,9996,'cw');">	RUS RWM time signal
+setfreqm(b,10460,'usb');"> Радио Хулиганьё!
+setfreqm(b,11253,'usb');"> UK RAF Volmet
+setfreqm(b,14996,'cw');"> RUS RWM time signal
+setfreqm(b,28550,'usb');"> Круглый стол Череповец (по средам 20:00)
